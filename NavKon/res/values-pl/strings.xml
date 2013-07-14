@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NavKon</string>
+    <string name="action_settings">Settings</string>
+    <string name="chooseOffice">Wybierz biuro do którego chcesz się udać:</string>
+	<string name="dalej">Przejdź dalej</string>
+	<string name="blank"></string>
+	<string name="usa_info">UWAGA: Aby aplikacja mogła nawigować do biura w San Jose, musisz znajdować się na terenie jednego z następujących państw: <i>Belize,  Gwatemala, Honduras, Kanada, Kostaryka, Nikaragua, Panama, Salwador, Stany Zjednoczone.</i> W przeciwnym wypadku nawigacja nie zadziała.</string>
+	<string name="chooseMode">Wybierz sposób poruszania się:</string>
+	<string name="routeInfo">Info</string>
+	<string name="stopNav">Pomoc</string>
+	<string name="findPlaces">Znajdź</string>
+	<string name="route_reset">Reset</string>
+	<string name="start_address">Adres początkowy:</string>
+	<string name="end_address">Adres końcowy:</string>
+	<string name="odleglosc">Odległość:</string>
+	<string name="czas">Przewidywany czas przejazdu:</string>
+	<string name="init">Inicjalizacja. Proszę czekać....</string>
+	<string name="loading">Wczytywanie...</string>
+	<string name="reached">Dotarłeś do celu!</string>
+	<string name="info_powrot">Powrót</string>
+	<string name="help_text">Uzyj przycisku RESET gdy zboczysz z trasy lub napotkasz inny problem.\n\nnWcisnij ZNAJDZ aby znalezc najblizsze, nawigacja doprowadzi Cię np. na stację benzynową, a następnie do celu.\n\nPrzycisk INFO poda Ci informacje o trasie, takie jak przewidywany czas przejazdu itp.\n\nBoczne przyciski + i - kontoluja zoom mapy.\n</string>
+	<string-array name="offices_array">
+        <item>BYDGOSZCZ (POLSKA)</item>
+        <item>ŁÓDŹ (POLSKA)</item>
+        <item>SAN JOSE (USA)</item>
+        <item>SZCZECIN (POLSKA)</item>
+        <item>WARSZAWA (POLSKA)</item>
+        <item>WILMSLOW (UK)</item>
+    </string-array>
+    <string-array name="modes_array">
+        <item>SAMOCHÓD</item>
+        <item>ROWER</item>
+        <item>NA PIECHOTĘ</item>
+    </string-array>
+    <string-array name="places_modes">
+        <item>Stacje benzynowe</item>
+        <item>Noclegi</item>
+        <item>Sklepy i supermarkety</item>
+        <item>Bary i restauracje</item>
+        <item>Bankomaty</item>
+    </string-array>
+</resources>
